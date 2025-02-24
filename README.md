@@ -6,6 +6,7 @@ Company Background:
 Bright Utility Company (BUC) is a fictitious mid-sized utility company responsible for generating, transmitting, and distributing electricity across several regions in Alberta. Despite its robust infrastructure, the company has been facing challenges in maintaining compliance with Alberta Reliability Standards (ARS) Critical Infrastructure Protection (CIP) requirements.
 
 Challenges:
+
 •	BUC lacked comprehensive compliance processes, leading to inconsistent adherence to ARS CIP standards.
 
 •	The company struggled with maintaining accurate and up-to-date regulatory evidence, risking non-compliance during audits.
