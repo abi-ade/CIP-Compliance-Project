@@ -8,7 +8,6 @@ Bright Utility Company (BUC) is a fictitious mid-sized utility company responsib
 Challenges:
 
 •	BUC lacked comprehensive compliance processes, leading to inconsistent adherence to ARS CIP standards.
-
 •	The company struggled with maintaining accurate and up-to-date regulatory evidence, risking non-compliance during audits.
 
 •	There was limited collaboration between business units, resulting in fragmented compliance efforts.
